@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Campus_Recruitment_System</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="student">Student</string>
+    <string name="admin">Admin</string>
+    <string name="company">Company</string>
+    <string name="students">Students</string>
+    <string name="jobs">Jobs</string>
+    <string name="companies">Companies</string>
+    <string name="candidates">Candidates</string>
+    <string name="post_job">Post Job</string>
+    <string name="title">Title</string>
+    <string name="salary">Salary</string>
+    <string name="location">Location</string>
+    <string name="qualification">Qualification</string>
+    <string name="delete">Delete</string>
+    <string name="experience">Experience</string>
+    <string name="deadline">Deadline</string>
+    <string name="post">Post</string>
+    <string name="apply">Apply</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="job">Job</string>
+    <string name="candidate">Candidate</string>
+    <string name="position">Position</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update">Update</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
